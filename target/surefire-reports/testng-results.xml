@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15887" started-at="2019-03-25T07:28:29Z" finished-at="2019-03-25T07:28:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15887" started-at="2019-03-25T07:28:29Z" finished-at="2019-03-25T07:28:45Z">
+      <class name="sampleProjectMaven.Login">
+        <test-method status="PASS" signature="Run()[pri:0, instance:sampleProjectMaven.Login@3fb6a447]" name="Run" duration-ms="4032" started-at="2019-03-25T07:28:41Z" finished-at="2019-03-25T07:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Run -->
+      </class> <!-- sampleProjectMaven.Login -->
+      <class name="sampleProjectMaven.LoginTestCase">
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:sampleProjectMaven.LoginTestCase@7a5d012c]" name="browsersetup" is-config="true" duration-ms="2748" started-at="2019-03-25T07:28:29Z" finished-at="2019-03-25T07:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:sampleProjectMaven.LoginTestCase@7a5d012c]" name="launchApp" duration-ms="9070" started-at="2019-03-25T07:28:32Z" finished-at="2019-03-25T07:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+      </class> <!-- sampleProjectMaven.LoginTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
